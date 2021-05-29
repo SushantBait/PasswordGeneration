@@ -34,7 +34,7 @@ public class Test {
  
    public static void main(String[] args) {
 	   MAX_LENGTH=10;
-       String thePassword = Test.generatePassword(MAX_LENGTH);
-       System.out.println("Auto-Generated password is: " + thePassword);
+       String tisPassword = Test.generatePassword(MAX_LENGTH);
+       System.out.println("Auto-Generated password is: " + isPassword);
    }
 }
